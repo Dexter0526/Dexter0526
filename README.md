@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**Dexter0526/Dexter0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am very interested in **Backend development**.
+- I have project experience using **JAVA**, **Spring boot**, **AWS**, **NodeJS**, **NGINX**, **Kurento**...
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+|#1|#2|#3|#4|#5|#6|
+| :-------------: | :--------: | :-------------: | :--: | :------: |:------: |
+|  **Framework**  | Spring boot | ExpressJS |      |          ||
+| **Language** | JAVA | Typescript |JavaScript(ES6) | NodeJS |   HTML    |
+|     **etc**     |    AWS    |      NAVER CLOUD      |      |          ||
+
+<br/>
+
+# Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeesangheee@gmail.com)](mailto:dex9205@gmail.com)
