@@ -11,7 +11,8 @@
 | :-------------: | :--------: | :-------------: | :--: | :------: |:------: |
 |  **Framework**  | Spring boot | ExpressJS |      |          ||
 | **Language** | JAVA | Typescript |JavaScript(ES6) | NodeJS |   HTML    |
-|     **etc**     |    AWS    |      NAVER CLOUD      |      |          ||
+|     **Cloud**     |    AWS    |      NAVER CLOUD      |      |          ||
+|     **Etc**     |    Tomcat    |      NGINX      |  Mozilla Hubs  |   WebRTC   ||
 
 <br/>
 
