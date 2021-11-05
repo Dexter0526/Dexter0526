@@ -2,6 +2,7 @@
 
 - I am very interested in **Backend development**.
 - I have project experience using **JAVA**, **Spring boot**, **AWS**, **NodeJS**, **NGINX**, **Kurento**...
+- https://solved.ac/profile/dexter
 
 <br/>
 
